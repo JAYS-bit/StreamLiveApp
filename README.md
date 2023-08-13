@@ -57,7 +57,7 @@ We trust you'll relish using the ZEGOCLOUD Live Streaming Android App! We highly
 
 # Images for reference :
 
-<img src="https://github.com/JAYS-bit/StreamLiveApp/blob/master/live_Stream0.jpeg" alt="ss0/>
+<img src="https://github.com/JAYS-bit/StreamLiveApp/blob/master/live_Stream0.jpeg">
 
 
 
