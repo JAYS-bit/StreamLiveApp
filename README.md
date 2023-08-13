@@ -48,9 +48,7 @@ For comprehensive instructions on utilizing and customizing the ZEGOCLOUD Live S
 
 Should you encounter any challenges, have inquiries, or need assistance, please don't hesitate to contact our dedicated support team at `support@zegocloud.com`.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -58,5 +56,8 @@ We trust you'll relish using the ZEGOCLOUD Live Streaming Android App! We highly
 
 
 # Images for reference :
+
+<img src="https://github.com/JAYS-bit/StreamLiveApp/blob/master/live_Stream0.jpeg" alt="ss0/>
+
 
 
