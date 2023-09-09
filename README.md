@@ -52,7 +52,7 @@ Should you encounter any challenges, have inquiries, or need assistance, please 
 
 ---
 
-We trust you'll relish using the ZEGOCLOUD Live Streaming Android App! We highly value your feedback and contributions. Enjoy your live streaming journey!
+
 
 
 # Images for reference :
